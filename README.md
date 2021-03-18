@@ -1,10 +1,10 @@
-![Hezkore's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hezkore&custom_title=GitHub%20Stats&show_icons=true&theme=material-palenight)
-
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hezkore&theme=material-palenight&layout=compact)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hezkore&custom_title=Language%20Stats&theme=material-palenight&exclude_repo=m2py,m2curses,m2libui)
-
 - 📜 Gists: https://gist.github.com/Hezkore
+
+<a href>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Hezkore&custom_title=GitHub%20Stats&show_icons=true&theme=material-palenight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Hezkore&theme=material-palenight&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hezkore&custom_title=Language%20Stats&theme=material-palenight&exclude_repo=m2py,m2curses,m2libui" />
+</a>
 
 <!--
 **Hezkore/Hezkore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

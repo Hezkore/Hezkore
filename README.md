@@ -1,8 +1,8 @@
-![Hezkore's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hezkore&show_icons=true&theme=material-palenight)
+![Hezkore's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hezkore&custom_title=GitHub%20Stats&show_icons=true&theme=material-palenight)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hezkore&theme=material-palenight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hezkore&theme=material-palenight&exclude_repo=m2py,m2curses,m2libui)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hezkore&custom_title=Language%20Stats&theme=material-palenight&exclude_repo=m2py,m2curses,m2libui)](https://github.com/anuraghazra/github-readme-stats)
 
 - 📜 Gists: https://gist.github.com/Hezkore
 

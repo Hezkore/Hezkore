@@ -1,5 +1,3 @@
-- 📜 Gists: https://gist.github.com/Hezkore
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Hezkore&hide_border=true&icon_color=ffc800&custom_title=GitHub%20Stats&show_icons=true&theme=material-palenight" />
   
@@ -7,6 +5,8 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hezkore&langs_count=7&hide_border=true&custom_title=Language%20Stats&theme=material-palenight&exclude_repo=m2py,m2curses,m2libui" />
 </a>
+
+- 📜 Gists: https://gist.github.com/Hezkore
 
 <!--
 **Hezkore/Hezkore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

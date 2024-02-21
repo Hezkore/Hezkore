@@ -1,4 +1,4 @@
-##### Retro paramour, professional tinkerer and software deity.
+##### Retro paramour, professional tinkerer, software deity, eternal skeptic, and unapologetic Bash aficionado.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Hezkore&line_height=27&hide_title=true&hide_border=true&custom_title=GitHub%20Stats&vue-dark&show_icons=true&icon_color=4487cc&text_color=7bced4&bg_color=00000008" />
